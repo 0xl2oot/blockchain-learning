@@ -13,8 +13,7 @@
 
 - [White Paper - A Next-Generation Smart Contract and Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper) [This Repo](/paper/Ethereum-White-Paper-A-next-generation-smart-contract-and-decentralized-application-platform.pdf)
 - [[Chinese Simplified] Ethereum 白皮书中文版](https://github.com/ethereum/wiki/wiki/%5BChinese-Simplified%5D-Ethereum-%E7%99%BD%E7%9A%AE%E4%B9%A6%E4%B8%AD%E6%96%87%E7%89%88)
-
-
+- [Ethfans - 白皮书 | 以太坊 (Ethereum ):下一代智能合约和去中心化应用平台](https://ethfans.org/posts/ethereum-whitepaper)
 
 Youtube:
 
