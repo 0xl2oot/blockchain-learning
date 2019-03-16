@@ -18,3 +18,7 @@
 Youtube:
 
 [How the blockchain will radically transform the economy | Bettina Warburg](https://www.youtube.com/watch?v=RplnSVTzvnU)
+
+公开课
+
+- [北京大学 肖臻 《区块链技术与应用》](http://zhenxiao.com/blockchain/)
