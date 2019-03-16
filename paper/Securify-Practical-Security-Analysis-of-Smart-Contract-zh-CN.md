@@ -1,6 +1,6 @@
 # Securify: 智能合约安全分析实践
 
-Author：Peter Tsankov, Andrei Dan, Dana Drachsler-Cohen, Arthur Gervais, Florian Bunzli, Martin Vechev
+**Author**：Peter Tsankov, Andrei Dan, Dana Drachsler-Cohen, Arthur Gervais, Florian Bunzli, Martin Vechev
 
 ## 摘要
 
@@ -10,7 +10,7 @@ Author：Peter Tsankov, Andrei Dan, Dana Drachsler-Cohen, Arthur Gervais, Floria
 
 Securify 是公开发布的，它已经分了超过1.8万份用户提交的合约代码，并由专家定期审计。我们对 Securify 在现实的以太坊智能合约进行了大规模的评估，证明它可以有效地检测智能合约安全性，发现智能合约可能才存在的安全问题。
 
-关键字：智能合约、安全分析、分层数据记录
+**关键字**：智能合约、安全分析、分层数据记录
 
 ## 1.介绍
 
