@@ -1,6 +1,6 @@
 # BlockChain Learning 
 
-### 比特币白皮书：
+### 比特币白皮书
 
 - [官网原文](https://bitcoin.org/bitcoin.pdf) - [This Repo](https://blockchain.vout.vip/paper/bitcoin.pdf)
 - [官网中文](https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf) - [This Repo](https://blockchain.vout.vip/paper/bitcoin_zh_cn.pdf)
